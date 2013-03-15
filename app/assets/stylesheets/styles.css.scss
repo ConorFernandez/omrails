@@ -1,10 +1,10 @@
-*{
+/* *{ 
 	font-family: GE Inspira;
-}
+} */
 
 $btnPrimaryBackground: green;
-$navbarBackgroundHighlight: white;
-$navbarBackground: white;
+/* $navbarBackgroundHighlight: white;
+$navbarBackground: white; */
 
 @import 'bootstrap';
 
@@ -14,10 +14,10 @@ body {
 
 @import 'bootstrap-responsive';
 
-.navbar-inner {
+/* .navbar-inner {
 	@include box-shadow(none !important);
 	border: 0;
-}
+} */
 
 .footer {
 	margin-top: 50px;
